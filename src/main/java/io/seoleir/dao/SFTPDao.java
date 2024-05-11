@@ -1,6 +1,6 @@
-package org.example.dao;
+package io.seoleir.dao;
 
-import org.example.model.MNPModel;
+import io.seoleir.model.MNPModel;
 
 import java.util.List;
 

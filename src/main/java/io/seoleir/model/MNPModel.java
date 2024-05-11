@@ -1,4 +1,4 @@
-package org.example.model;
+package io.seoleir.model;
 
 import lombok.Builder;
 import lombok.Data;

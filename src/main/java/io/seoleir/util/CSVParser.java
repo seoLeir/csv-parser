@@ -1,7 +1,7 @@
-package org.example.util;
+package io.seoleir.util;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.model.MNPModel;
+import io.seoleir.model.MNPModel;
 
 import java.io.BufferedReader;
 import java.io.IOException;
