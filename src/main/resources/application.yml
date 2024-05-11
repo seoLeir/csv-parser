@@ -3,21 +3,21 @@ spring:
     name: parser
 
   datasource:
-    username: seoleir
-    password: seoleir!@#$
+    username: root
+    password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/smtp
+    url:
 
 server:
   port: 9000
 
 jsch:
-  host: 82.148.5.235
-  username: root
-  password: d2EN1hwBkr1x
+  host:
+  username:
+  password:
   known_hosts: ~/.ssh/known_hosts
 
 parser:
   save: false
-  path: /home/seoleir/
+  path: /root
   remote_dir_name: Port_All
